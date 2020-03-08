@@ -1,0 +1,9 @@
+D:\CodeSource\JeuDeLaVie\ConsoleJeuDeLaVie\obj\Debug\ConsoleJeuDeLaVie.csprojAssemblyReference.cache
+D:\CodeSource\JeuDeLaVie\ConsoleJeuDeLaVie\bin\Debug\ConsoleJeuDeLaVie.exe.config
+D:\CodeSource\JeuDeLaVie\ConsoleJeuDeLaVie\bin\Debug\ConsoleJeuDeLaVie.exe
+D:\CodeSource\JeuDeLaVie\ConsoleJeuDeLaVie\bin\Debug\ConsoleJeuDeLaVie.pdb
+D:\CodeSource\JeuDeLaVie\ConsoleJeuDeLaVie\obj\Debug\ConsoleJeuDeLaVie.csproj.CopyComplete
+D:\CodeSource\JeuDeLaVie\ConsoleJeuDeLaVie\obj\Debug\ConsoleJeuDeLaVie.exe
+D:\CodeSource\JeuDeLaVie\ConsoleJeuDeLaVie\obj\Debug\ConsoleJeuDeLaVie.pdb
+D:\CodeSource\JeuDeLaVie\ConsoleJeuDeLaVie\bin\Debug\JeuDeLaVieLibrary.dll
+D:\CodeSource\JeuDeLaVie\ConsoleJeuDeLaVie\bin\Debug\JeuDeLaVieLibrary.pdb

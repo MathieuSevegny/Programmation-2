@@ -1,0 +1,9 @@
+D:\CodeSource\JeuDeLaVie\JeuDeLaVieToTxT\bin\Debug\JeuDeLaVieToTxT.exe.config
+D:\CodeSource\JeuDeLaVie\JeuDeLaVieToTxT\bin\Debug\JeuDeLaVieToTxT.exe
+D:\CodeSource\JeuDeLaVie\JeuDeLaVieToTxT\bin\Debug\JeuDeLaVieToTxT.pdb
+D:\CodeSource\JeuDeLaVie\JeuDeLaVieToTxT\bin\Debug\JeuDeLaVieLibrary.dll
+D:\CodeSource\JeuDeLaVie\JeuDeLaVieToTxT\bin\Debug\JeuDeLaVieLibrary.pdb
+D:\CodeSource\JeuDeLaVie\JeuDeLaVieToTxT\obj\Debug\JeuDeLaVieToTxT.csprojAssemblyReference.cache
+D:\CodeSource\JeuDeLaVie\JeuDeLaVieToTxT\obj\Debug\JeuDeLaVieToTxT.csproj.CopyComplete
+D:\CodeSource\JeuDeLaVie\JeuDeLaVieToTxT\obj\Debug\JeuDeLaVieToTxT.exe
+D:\CodeSource\JeuDeLaVie\JeuDeLaVieToTxT\obj\Debug\JeuDeLaVieToTxT.pdb

@@ -1,0 +1,8 @@
+D:\CodeSource\JeuDeLaVie\JeuDeLaVie\obj\Debug\netstandard2.0\JeuDeLaVieLibrary.csprojAssemblyReference.cache
+D:\CodeSource\JeuDeLaVie\JeuDeLaVie\obj\Debug\netstandard2.0\JeuDeLaVieLibrary.AssemblyInfoInputs.cache
+D:\CodeSource\JeuDeLaVie\JeuDeLaVie\obj\Debug\netstandard2.0\JeuDeLaVieLibrary.AssemblyInfo.cs
+D:\CodeSource\JeuDeLaVie\JeuDeLaVie\bin\Debug\netstandard2.0\JeuDeLaVieLibrary.deps.json
+D:\CodeSource\JeuDeLaVie\JeuDeLaVie\bin\Debug\netstandard2.0\JeuDeLaVieLibrary.dll
+D:\CodeSource\JeuDeLaVie\JeuDeLaVie\bin\Debug\netstandard2.0\JeuDeLaVieLibrary.pdb
+D:\CodeSource\JeuDeLaVie\JeuDeLaVie\obj\Debug\netstandard2.0\JeuDeLaVieLibrary.dll
+D:\CodeSource\JeuDeLaVie\JeuDeLaVie\obj\Debug\netstandard2.0\JeuDeLaVieLibrary.pdb

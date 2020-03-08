@@ -1,0 +1,7 @@
+D:\CodeSource\JeuDeLaVie\JeuDeLaVie\bin\Debug\netstandard2.0\CegepVicto.TechInfo.H2020.P2.DA1934363.JeuVie.deps.json
+D:\CodeSource\JeuDeLaVie\JeuDeLaVie\bin\Debug\netstandard2.0\CegepVicto.TechInfo.H2020.P2.DA1934363.JeuVie.dll
+D:\CodeSource\JeuDeLaVie\JeuDeLaVie\bin\Debug\netstandard2.0\CegepVicto.TechInfo.H2020.P2.DA1934363.JeuVie.pdb
+D:\CodeSource\JeuDeLaVie\JeuDeLaVie\obj\Debug\netstandard2.0\CegepVicto.TechInfo.H2020.P2.DA1934363.JeuVie.AssemblyInfoInputs.cache
+D:\CodeSource\JeuDeLaVie\JeuDeLaVie\obj\Debug\netstandard2.0\CegepVicto.TechInfo.H2020.P2.DA1934363.JeuVie.AssemblyInfo.cs
+D:\CodeSource\JeuDeLaVie\JeuDeLaVie\obj\Debug\netstandard2.0\CegepVicto.TechInfo.H2020.P2.DA1934363.JeuVie.dll
+D:\CodeSource\JeuDeLaVie\JeuDeLaVie\obj\Debug\netstandard2.0\CegepVicto.TechInfo.H2020.P2.DA1934363.JeuVie.pdb
